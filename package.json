@@ -13,10 +13,7 @@
   },
   "homepage": "https://github.com/ivryxx/videoChat_webRTC#readme",
   "dependencies": {
-    "express": "^4.17.3",
-    "nodemon": "^2.0.15",
-    "pug": "^3.0.2",
-    "ws": "^8.5.0"
+    "nodemon": "^2.0.15"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.16.11"
